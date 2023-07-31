@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: 'bebas';
-    src: url(arquivos/fontes/BebasNeue-Regular.ttf);
+    src: url(fontes/BebasNeue-Regular.ttf);
 }
 @font-face {
     font-family: 'android';
-    src: url(arquivos/fontes/idroid.otf);
+    src: url(fontes/idroid.otf);
 }
 *{
     margin: 0;
